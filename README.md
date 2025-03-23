@@ -3,7 +3,7 @@
 
 My name is Santiago Rocha, a Full Stack Web Developer that makes so many fun things with the power of programming.
 
-[![Mail Badge](https://img.shields.io/badge/-Santiago Rocha-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:santiagorochav@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Email%20me-c0392b&logo=gmail&logoColor=white)](mailto:santiagorochav@gmail.com)
 
 Skills:
 
