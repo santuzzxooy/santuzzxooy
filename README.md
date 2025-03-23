@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, my name is Josefth Rocha
+#### Software developer | Full Stack | Web.
 
-<!--
-**santuzzxooy/santuzzxooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Santiago Rocha, a Full Stack Web Developer that makes so many fun things with the power of programming.
 
-Here are some ideas to get you started:
+[![Mail Badge](https://img.shields.io/badge/-Maksym_Rudnyi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:santiagorochav@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+- 🌱 I’m currently Studying systems engineering
+- 💬 Ask me about Services
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santuzzxooy)
+[<img src='https://www.svgrepo.com/show/390225/portfolio-case-business-suitcase.svg' alt='portfolio' height='40'>](https://santuzzxooy.github.io/Portfolio_Web/) 
+
+### Profile views counter 👁️‍🗨️
+[![Santiago Rocha profile views](https://u8views.com/api/v1/github/profiles/91698987/views/day-week-month-total-count.svg)](https://u8views.com/github/santuzzxooy)
